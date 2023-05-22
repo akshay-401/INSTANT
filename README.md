@@ -35,7 +35,7 @@ Preprocess the train and dev dataset, including input normalization, schema link
 
 ### Training
 
-Training  Proton with:
+Training  Instant with:
 
 ```
 ./run/run_lgesql_plm.sh msde electra-large-discriminator
